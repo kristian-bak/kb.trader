@@ -1,0 +1,4 @@
+^renv$
+^renv\.lock$
+^kb\.trader\.Rproj$
+^\.Rproj\.user$
